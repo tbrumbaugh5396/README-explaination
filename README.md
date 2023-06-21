@@ -179,7 +179,23 @@ SmartyPants converts ASCII punctuation characters into "smart" typographic punct
 | Example                | Description                         |
 |----------------|-------------------------------|
 |"hello world" | A string            |
-|'' multi \n line \n string '' | A multi-line string. Strips common prefixed whitespace. Evaluates to "multi\\n line\\n string". |
+|'' "multi \n line \n string" '' | "A multi-line string. Strips common prefixed whitespace. \n Evaluates to multi\\n line\\n string." |
+| "hello ${ { a = "world"; }.a }"
+
+"1 2 ${toString 3}"
+
+"${pkgs.bash}/bin/sh"
+|	
+String interpolation (expands to "hello world", "1 2 3", "/nix/store/<hash>-bash-<version>/bin/sh") |
+| true, false | Booleans |
+| null | Null value |
+| 123 | An integer |
+| 3.141 | A floating point number |
+| /etc | An absolute path |
+| ./foo.png | A path relative to the file containing this Nix expression |
+| ~/.config | A home path. Evaluates to the "<user's home directory>/.config". |
+| <nixpkgs> | Search path for Nix files. Value determined by $NIX_PATH environment variable |
+| Compound values |
 
 ## KaTeX
 
