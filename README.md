@@ -175,7 +175,8 @@ SmartyPants converts ASCII punctuation characters into "smart" typographic punct
 
 | Example                | Description                         |
 |----------------|-------------------------------|
-|"hello world"| A string            |
+|"hello world" | A string            |
+|'' multi \n line \n string '' | A multi-line string. Strips common prefixed whitespace. \n Evaluates to "multi\\n line\\n string". |
 
 ## KaTeX
 
