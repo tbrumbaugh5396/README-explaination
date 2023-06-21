@@ -7,7 +7,10 @@ It is a text file that contains information for the user about the software, pro
 Therefore, READMEs are useful for who reads them.
 
 From Wikipedia's README article:
-In software development, a README file contains information about the other files in a directory or archive of computer software. 
+In software development, a README file contains information about the other files in a directory or archive of computer software. | Example                | Description                         |
+|----------------|-------------------------------|
+|"hello world" | A string            |
+|'' "multi \n line \n string" '' | "A multi-line string. Strips common prefixed whitespace. \n Evaluates to multi\\n line\\n string." |
 A form of documentation, it is usually a simple plain text file called README, Read Me, READ.ME, README.TXT, README.md (to indicate the use of Markdown), or README.1ST.
 
 The file's name is generally written in uppercase. 
@@ -177,6 +180,11 @@ SmartyPants converts ASCII punctuation characters into "smart" typographic punct
 |----------------|-------------------------------|
 |"hello world" | A string            |
 |'' multi \n line \n string '' | A multi-line string. Strips common prefixed whitespace. \n Evaluates to "multi\\n line\\n string". |
+
+| Example                | Description                         |
+|----------------|-------------------------------|
+|"hello world" | A string            |
+|'' "multi \n line \n string" '' | "A multi-line string. Strips common prefixed whitespace. \n Evaluates to multi\\n line\\n string." |
 
 ## KaTeX
 
