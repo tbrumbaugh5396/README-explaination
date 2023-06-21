@@ -180,7 +180,7 @@ SmartyPants converts ASCII punctuation characters into "smart" typographic punct
 |----------------|-------------------------------|
 |"hello world" | A string            |
 |'' "multi \n line \n string" '' | "A multi-line string. Strips common prefixed whitespace. \n Evaluates to multi\\n line\\n string." |
-| "hello ${ { a = "world"; }.a }" \n "1 2 ${toString 3}" \n "${pkgs.bash}/bin/sh" | String interpolation (expands to "hello world", "1 2 3", "/nix/store//<hash/>-bash-/<version/>/bin/sh") |
+| "hello ${ { a = "world"; }.a }" \n "1 2 ${toString 3}" \n "${pkgs.bash}/bin/sh" | String interpolation (expands to "hello world", "1 2 3", "/nix/store/\<hash\>-bash-\<version\>/bin/sh") |
 | true, false | Booleans |
 | null | Null value |
 | 123 | An integer |
