@@ -189,7 +189,13 @@ SmartyPants converts ASCII punctuation characters into "smart" typographic punct
 | ./foo.png | A path relative to the file containing this Nix expression |
 | ~/.config | A home path. Evaluates to the "<user's home directory>/.config". |
 | \<nixpkgs\> | Search path for Nix files. Value determined by $NIX_PATH environment variable |
-| Compound values |
+| Compound values | |
+| { x = 1; y = 2; } | A set with attributes named x and y |
+| { foo.bar = 1; } | A nested set, equivalent to { foo = { bar = 1; }; } |
+| rec { x = "foo"; y = x + "bar"; } | A recursive set, equivalent to { x = "foo"; y = "foobar"; } |
+| [ "foo" "bar" "baz" ] [ 1 2 3 ] [ (f 1) { a = 1; b = 2; } [ "c" ] ] | Lists with three elements. |
+| Operators | |
+| "foo" + "bar" | String concatenation |
 
 
 ## KaTeX
