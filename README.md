@@ -188,7 +188,7 @@ SmartyPants converts ASCII punctuation characters into "smart" typographic punct
 | /etc | An absolute path |
 | ./foo.png | A path relative to the file containing this Nix expression |
 | ~/.config | A home path. Evaluates to the "<user's home directory>/.config". |
-| <nixpkgs> | Search path for Nix files. Value determined by $NIX_PATH environment variable |
+| \<nixpkgs\> | Search path for Nix files. Value determined by $NIX_PATH environment variable |
 | Compound values |
 
 
