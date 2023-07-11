@@ -5,6 +5,9 @@
 ### Software Version 
 Major, Minor, and Patch
 
+### Github Repo
+https://github.com/tbrumbaugh5396/README-explaination
+
 ## Configuration instructions
     
 ## Installation instructions
