@@ -20,14 +20,14 @@
       * [Save a file](#Save-a-file)
       * [Synchronize a file](#Synchronize-a-file)
       * [Manage file synchronization](#Manage-file-synchronization)
-   * [Publication](#Publication)
-     * [Publish a File](#Publish-a-file)
-     * [Update a publication](#Update-a-publication)
-     * [Manage file publication](#Manage-file-publication)
-   * [Markdown extensions](#Markdown-extension)
-     * [SmartyPants](#SmartyPants)
-     * [KaTeX](#KaTeX)
-     * [UML diagrams](#UML-diagrams)
+    * [Publication](#Publication)
+      * [Publish a File](#Publish-a-file)
+      * [Update a publication](#Update-a-publication)
+      * [Manage file publication](#Manage-file-publication)
+    * [Markdown extensions](#Markdown-extension)
+      * [SmartyPants](#SmartyPants)
+      * [KaTeX](#KaTeX)
+      * [UML diagrams](#UML-diagrams)
 
 
 # README-Introduction
