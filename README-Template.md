@@ -1,5 +1,22 @@
 # README template
 
+# Table of Contents
+* [Table of Contents](#Table-of-Contents)
+* [Software Description](#Software-Description)
+  * [Software Version](#Software-Version) 
+  * [Github Repo](#Github-Repo)
+* [Configuration instructions](#Configuration-instructions)
+* [Installation instructions](#Installation-instructions)
+* [Operating instructions](#Operating-instructions)
+* [A file manifest](#A-file-manifest)
+* [Copyright and licensing information](#Copyright-and-licensing-information)
+* [Contact information for the distributor or author](#Contact-information-for-the-distributor-or-author)
+* [A list of known bugs](#A-list-of-known-bugs)
+* [Troubleshooting instructions](#Troubleshooting-instructions)
+* [Credits and acknowledgments](#Credits-and-acknowledgments)
+* [A changelog (usually aimed at fellow programmers)](#A-changelog-(usually-aimed-at-fellow-programmers))
+* [A news section (usually aimed at end users)](#A-news-section-(usually-aimed-at-end-users))
+
 ## Software Description
 
 ### Software Version 
@@ -14,7 +31,8 @@ https://github.com/tbrumbaugh5396/README-explaination
     
 ## Operating instructions
 
-## A file manifest (a list of files in the directory or archive)
+## A file manifest 
+(a list of files in the directory or archive)
  * Root directory
    * Folder-1
      * File-1-1
