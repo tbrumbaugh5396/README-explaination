@@ -1,12 +1,12 @@
 # Table of Contents
 * [Table of Contents](#Table-of-Contents)
 * [README-introduction](#README-introduction)
-* [From Wikipedia's README article](#From-Wikipedia's-README-article)
+* [From Wikipedia's README article](#From-Wikipedia's-README-article:)
   * [Contents](#Contents)
     * [A README file typically encompasses](#A-README-file-typically-encompasses)
   * [History](#History)
   * [As a generic term](#As-a-generic-term)
-    * [Other README related files](#Other-README-related-files)
+    * [Other README related files](#Other-README-related-files:)
 * [Writing READMEs](#Writing-READMEs)
   * [Welcome to StackEdit!](#Welcome-to-StackEdit!)
   
