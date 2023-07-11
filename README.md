@@ -1,14 +1,14 @@
 # Table of Contents
 * [Table of Contents](#Table-of-Contents)
 * [README-introduction](#README-introduction)
-* [From Wikipedia's README article](#From-Wikipedia's-README-article:)
+* [From Wikipedia's README article](#From-Wikipedia's-README-article)
   * [Contents](#Contents)
     * [A README file typically encompasses](#A-README-file-typically-encompasses)
   * [History](#History)
   * [As a generic term](#As-a-generic-term)
-    * [Other README related files](#Other-README-related-files:)
+    * [Other README related files](#Other-README-related-files)
 * [Writing READMEs](#Writing-READMEs)
-  * [Welcome to StackEdit!](#Welcome-to-StackEdit!)
+  * [Welcome to StackEdit!](#Welcome-to-StackEdit)
   
 
 
@@ -21,7 +21,7 @@ It is a text file that contains information for the user about the software, pro
 Therefore, READMEs are useful for who reads them. 
 Hence, the name...
 
-# From Wikipedia's README article:
+# From Wikipedia's README article
 [Table of Contents](#Table-of-Contents)
 
 In software development, a README file contains information about the other files in a directory or archive of computer software. 
@@ -38,7 +38,7 @@ On Unix-like systems in particular, this causes it to stand out – both because
 ### Contents:
 [Table of Contents](#Table-of-Contents)
 
-#### A README file typically encompasses:
+#### A README file typically encompasses
 [Table of Contents](#Table-of-Contents)
 
     Configuration instructions
@@ -76,7 +76,7 @@ In addition to plain text, various other formats and file extensions are also su
 The expression "readme file" is also sometimes used generically, for other files with a similar purpose.
 For example, the source-code distributions of many free software packages (especially those following the Gnits Standards or those produced with GNU Autotools) include a standard set of readme files:
 
-#### Other README related files:
+#### Other README related files
 [Table of Contents](#Table-of-Contents)
 
     README 	General information
@@ -102,7 +102,7 @@ Github will automatically render the file named README.md.
 Here is an example found at https://stackedit.io/app#:
 ------------------------------------------------------------------
 
-## Welcome to StackEdit!
+## Welcome to StackEdit
 [Table of Contents](#Table-of-Contents)
 
 Hi! I'm your first Markdown file in **StackEdit**. If you want to learn about StackEdit, you can read me. If you want to play with Markdown, you can edit me. Once you have finished with me, you can create new files by opening the **file explorer** on the left corner of the navigation bar.
