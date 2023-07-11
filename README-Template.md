@@ -84,7 +84,9 @@ https://github.com/tbrumbaugh5396/README-explaination
 [Table of Contents](#Table-of-Contents)
 
 ## FAQ 
+[Table of Contents](#Table-of-Contents)
 For users.
 
 ## TODO
+[Table of Contents](#Table-of-Contents)
 
