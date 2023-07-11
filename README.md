@@ -103,7 +103,7 @@ For example, the source-code distributions of many free software packages (espec
     THANKS                      Acknowledgments
     CHANGELOG                   A detailed changelog, intended for programmers
     NEWS                        A basic changelog, intended for users
-    INSTALL 	                Installation instructions
+    INSTALL                     Installation instructions
     COPYING / LICENSE           Copyright and licensing information
     BUGS                        Known bugs and instructions on reporting new ones
     CONTRIBUTING / HACKING      Guide for prospective contributors to the project
