@@ -1,7 +1,7 @@
 # Table of Contents
 * [Table of Contents](#Table-of-Contents)
 * [README-introduction](#README-introduction)
-* [From Wikipedia's README article](#From-Wikipedia's-README-article)
+* [From Wikipedia README article](#From-Wikipedia-README-article)
   * [Contents](#Contents)
     * [A README file typically encompasses](#A-README-file-typically-encompasses)
   * [History](#History)
@@ -21,7 +21,7 @@ It is a text file that contains information for the user about the software, pro
 Therefore, READMEs are useful for who reads them. 
 Hence, the name...
 
-# From Wikipedia's README article
+# From Wikipedia README article
 [Table of Contents](#Table-of-Contents)
 
 In software development, a README file contains information about the other files in a directory or archive of computer software. 
