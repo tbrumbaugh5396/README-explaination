@@ -16,6 +16,8 @@
 * [Credits and acknowledgments](#Credits-and-acknowledgments)
 * [A changelog (usually aimed at fellow programmers)](#A-changelog)
 * [A news section (usually aimed at end users)](#A-news-section)
+* [FAQ](#FAQ) 
+* [TODO](#TODO)
 
 ## Software Description
 [Table of Contents](#Table-of-Contents)
