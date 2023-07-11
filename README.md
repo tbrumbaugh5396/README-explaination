@@ -47,6 +47,7 @@ In software development, a README file contains information about the other file
 |----------------|-------------------------------|
 |"hello world" | A string            |
 |'' "multi \n line \n string" '' | "A multi-line string. Strips common prefixed whitespace. \n Evaluates to multi\\n line\\n string." |
+
 A form of documentation, it is usually a simple plain text file called README, Read Me, READ.ME, README.TXT, README.md (to indicate the use of Markdown), or README.1ST.
 
 The file's name is generally written in uppercase. 
