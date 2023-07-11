@@ -1,16 +1,25 @@
 # Table of Contents
 * [Table of Contents](#Table-of-Contents)
-* [README-explaination](#README-explaination)
+* [README-introduction](#README-introduction)
+* [From Wikipedia's README article](#From-Wikipedia's-README-article)
+  * [Contents](#Contents)
+    * [A README file typically encompasses](#A-README-file-typically-encompasses)
+  * [History](#History)
+  * [As a generic term](#As-a-generic-term)
+    * [Other README related files](#Other-README-related-files)
+* [Writing READMEs](#Writing-READMEs)
+  * [Welcome to StackEdit!](#Welcome-to-StackEdit!)
+  
 
 
-# README-explaination
+# README-Introduction
 The Readme file is often the first file that the users read. 
 It is a text file that contains information for the user about the software, project, code, or game, or it might contain instructions, help, or details about patches or updates.
 
 Therefore, READMEs are useful for who reads them. 
 Hence, the name...
 
-## From Wikipedia's README article:
+# From Wikipedia's README article:
 In software development, a README file contains information about the other files in a directory or archive of computer software. 
 | Example                | Description                         |
 |----------------|-------------------------------|
@@ -56,6 +65,7 @@ In addition to plain text, various other formats and file extensions are also su
 The expression "readme file" is also sometimes used generically, for other files with a similar purpose.
 For example, the source-code distributions of many free software packages (especially those following the Gnits Standards or those produced with GNU Autotools) include a standard set of readme files:
 
+#### Other README related files:
     README 	General information
     AUTHORS 	Credits
     THANKS 	Acknowledgments
