@@ -1,5 +1,10 @@
 # README template
-    
+
+## Software Description
+
+### Software Version 
+Major, Minor, and Patch
+
 ## Configuration instructions
     
 ## Installation instructions
@@ -17,9 +22,9 @@
 ## Copyright and licensing information
 
 ## Contact information for the distributor or author
-Author Name: 
-Email:
-Website:
+* Author Name: 
+* Email:
+* Website:
 
 ## A list of known bugs
 | Bug #               | Description          | Open / Close (O/C)   | example                            | 
@@ -31,5 +36,8 @@ Website:
 ## Credits and acknowledgments
     
 ## A changelog (usually aimed at fellow programmers)
+| Change #               | Description          | Version of Change | example                            | 
+| -----------------------|----------------------|-------------------|------------------------------------|
+| 1                      | Button doesn't work  | O                 | Clicked button and it doesn't work |
     
 ## A news section (usually aimed at end users)
