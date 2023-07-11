@@ -14,8 +14,8 @@
 * [A list of known bugs](#A-list-of-known-bugs)
 * [Troubleshooting instructions](#Troubleshooting-instructions)
 * [Credits and acknowledgments](#Credits-and-acknowledgments)
-* [A changelog (usually aimed at fellow programmers)](#A-changelog-(usually-aimed-at-fellow-programmers))
-* [A news section (usually aimed at end users)](#A-news-section-(usually-aimed-at-end-users))
+* [A changelog (usually aimed at fellow programmers)](#A-changelog)
+* [A news section (usually aimed at end users)](#A-news-section)
 
 ## Software Description
 
@@ -56,9 +56,9 @@ https://github.com/tbrumbaugh5396/README-explaination
     
 ## Credits and acknowledgments
     
-## A changelog (usually aimed at fellow programmers)
+## A changelog 
 | Change #               | Description          | Version of Change | example                            | 
 | -----------------------|----------------------|-------------------|------------------------------------|
 | 1                      | Added a button       | 1.1.1             | Clicked button and it doesn't work |
     
-## A news section (usually aimed at end users)
+## A news section
