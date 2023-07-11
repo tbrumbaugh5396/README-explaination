@@ -1,6 +1,4 @@
 # README-explaination
-
-
 The Readme file is often the first file that the users read. 
 It is a text file that contains information for the user about the software, project, code, or game, or it might contain instructions, help, or details about patches or updates.
 
@@ -65,13 +63,14 @@ For example, the source-code distributions of many free software packages (espec
 
 Also commonly distributed with software packages are an FAQ file and a TODO file, which lists planned improvements. 
 
-
+# Writing READMEs
 As far as for those who write READMEs, there are tools that read and render READMEs. 
 Those who write them often use a markdown language to format READMEs.
-Github will automatically render file named README.md.
+Github will automatically render the file named README.md.
 
 
 Here is an example found at https://stackedit.io/app#:
+------------------------------------------------------------------
 
 ## Welcome to StackEdit!
 
