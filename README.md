@@ -72,6 +72,7 @@ On Unix-like systems in particular, this causes it to stand out – both because
     A changelog (usually aimed at fellow programmers)
     A news section (usually aimed at end users)
 
+Also commonly distributed with software packages are an FAQ file and a TODO file, which lists planned improvements. 
 
 ### History
 [Table of Contents](#Table-of-Contents)
