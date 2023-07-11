@@ -27,9 +27,9 @@ Major, Minor, and Patch
 * Website:
 
 ## A list of known bugs
-| Bug #               | Description          | Open / Close (O/C)   | example                            | 
-| --------------------|----------------------|----------------------|------------------------------------|
-| 1                   | Button doesn't work  | O                    | Clicked button and it doesn't work |
+| Bug #               | Description          | Version of Bug | Open / Close (O/C)   | example                            | 
+| --------------------|----------------------|----------------|----------------------|------------------------------------|
+| 1                   | Button doesn't work  | 1.1.1          | O                    | Clicked button and it doesn't work |
 
 ## Troubleshooting instructions
     
@@ -38,6 +38,6 @@ Major, Minor, and Patch
 ## A changelog (usually aimed at fellow programmers)
 | Change #               | Description          | Version of Change | example                            | 
 | -----------------------|----------------------|-------------------|------------------------------------|
-| 1                      | Button doesn't work  | O                 | Clicked button and it doesn't work |
+| 1                      | Added a button       | 1.1.1             | Clicked button and it doesn't work |
     
 ## A news section (usually aimed at end users)
