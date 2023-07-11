@@ -81,3 +81,8 @@ https://github.com/tbrumbaugh5396/README-explaination
 ## A news section
 [Table of Contents](#Table-of-Contents)
 
+## FAQ 
+For users.
+
+## 
+
