@@ -98,15 +98,15 @@ For example, the source-code distributions of many free software packages (espec
 #### Other README related files
 [Table of Contents](#Table-of-Contents)
 
-    README 	                General information
-    AUTHORS 	                Credits
-    THANKS 	                Acknowledgments
-    CHANGELOG 	                A detailed changelog, intended for programmers
-    NEWS 	                A basic changelog, intended for users
+    README                      General information
+    AUTHORS                     Credits
+    THANKS                      Acknowledgments
+    CHANGELOG                   A detailed changelog, intended for programmers
+    NEWS                        A basic changelog, intended for users
     INSTALL 	                Installation instructions
-    COPYING / LICENSE 	        Copyright and licensing information
-    BUGS 	                Known bugs and instructions on reporting new ones
-    CONTRIBUTING / HACKING 	Guide for prospective contributors to the project
+    COPYING / LICENSE           Copyright and licensing information
+    BUGS                        Known bugs and instructions on reporting new ones
+    CONTRIBUTING / HACKING      Guide for prospective contributors to the project
 
 Also commonly distributed with software packages are an FAQ file and a TODO file, which lists planned improvements. 
 
