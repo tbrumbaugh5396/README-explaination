@@ -18,7 +18,7 @@ On Unix-like systems in particular, this causes it to stand out – both because
 
 
 ### Contents:
-####A README file typically encompasses:
+#### A README file typically encompasses:
     Configuration instructions
     Installation instructions
     Operating instructions
