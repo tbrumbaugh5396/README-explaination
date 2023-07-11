@@ -54,7 +54,7 @@ On Unix-like systems in particular, this causes it to stand out – both because
     A news section (usually aimed at end users)
 
 
-### History:
+### History
 [Table of Contents](#Table-of-Contents)
 
 This section needs expansion. You can help by adding to it. (February 2015)
@@ -70,7 +70,7 @@ The popular source code hosting website GitHub strongly encourages the creation 
 In addition to plain text, various other formats and file extensions are also supported,[11] and HTML conversion takes extensions into account – in particular a README.md is treated as GitHub Flavored Markdown. 
 
 
-### As a generic term:
+### As a generic term
 [Table of Contents](#Table-of-Contents)
 
 The expression "readme file" is also sometimes used generically, for other files with a similar purpose.
